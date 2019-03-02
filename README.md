@@ -13,6 +13,7 @@ Run in terminal:
 Example:
 ```ruby
 require 'population_growth_client'
+
 PopulationGrowthClient.search_zip(90034)
 ```
 # Links
