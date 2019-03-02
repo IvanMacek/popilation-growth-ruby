@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'population_growth_client'
+puts PopulationGrowthClient.search_zip(ARGV[0])
