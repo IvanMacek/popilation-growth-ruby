@@ -11,9 +11,9 @@ Run in terminal:
     
 ### Reference in your Ruby code
 Example:
-
-    require 'population_growth_client'
-    PopulationGrowthClient.search_zip(90034)
-
+```ruby
+require 'population_growth_client'
+PopulationGrowthClient.search_zip(90034)
+```
 # Links
 - Rubygems: https://rubygems.org/gems/population_growth_client
