@@ -1,6 +1,6 @@
 # How to use
 ### Install from ruby gems
-Install population_growth_client by running:
+Install client by running:
 
     gem install population_growth_client
     
